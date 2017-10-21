@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: AngryDKP4
+## Notes: Version 4.19
+## Author: Tohveli
+## SavedVariablesPerCharacter: STANDBY,SHOW_LOOTFRAMES,SHOW_LOOTS
+
+ChatThrottleLib.lua
+Officer.lua

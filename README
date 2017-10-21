@@ -1,0 +1,11 @@
+## I AM NOT UPDATING THIS ANYMORE!
+
+You can reset notes with /script ResetNotes(); but do this after you have set ALLOWED_RANKS
+
+# COMMANDS:
+/dkp -- opens dkp panel
+/dkp version -- prints version
+
+# RAID CHAT COMMANS (all can use):
+ALLIN -- bids your dkp
+WIN name -- bids name dkp+1 or if name bid is too near dkp then bid+MINIUM_BID_RAISE
